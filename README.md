@@ -282,4 +282,9 @@ Kadang klasė Zmogus yra abstrakti, jos objektų kurti negalima:
 
 ## Kas naujo:
 - Projekto dokumentacija HTML, LaTeX ir PDF formatu;
-- Unit Test realizacija naudojant Google Test.
+- Unit Test realizacija naudojant Google Test.  
+
+Testavimo rezultatas:
+
+![Screenshot 2024-12-13 050441](https://github.com/user-attachments/assets/ead9094f-dac2-4105-8c0e-f1e397f9bd11)
+
